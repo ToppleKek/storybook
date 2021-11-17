@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Storybook</string>
+    <string name="app_description">A Choose Your Own Adventure Book creater and viewer by Braeden Hong\n\nSelect an option to start</string>
+    <string name="dialog_title_hint">Story Title</string>
+    <string name="dialog_author_hint">Author Name</string>
+    <string name="editor_choice1_hint">Choice 1 page number</string>
+    <string name="editor_choice2_hint">Choice 2 page number</string>
+    <string name="editor_choice_text_hint">Page number of choices - 0 for no choice</string>
+    <string name="dialog_title">New Story</string>
+    <string name="dialog_positive_button">Create</string>
+    <string name="dialog_negative_button">Cancel</string>
+    <string name="new_story_button_text">New Story…</string>
+    <string name="load_story_button_text">Load Story…</string>
+    <string name="edit_story_button_text">Edit Story…</string>
+    <string name="editor_set_image_button_text">Set image…</string>
+    <string name="editor_change_image_button_text">Change image…</string>
+    <string name="action_save">Save</string>
+    <string name="restart_button_text">Restart</string>
+</resources>
